@@ -62,6 +62,14 @@ export default function Home() {
    <Segment placeholder>
     <Grid columns={3} stackable textAlign='center'>      
       <Grid.Row verticalAlign='middle'>
+      <Grid.Column>
+        <Header as='h1' textAlign='center' inverted color='grey'>      
+          Планета Миланковић
+          </Header> 
+            <Link to="/srpski">
+            <Button primary>СРПСКИ</Button>  
+            </Link>       
+        </Grid.Column>
         <Grid.Column>
           <Header as='h1' textAlign='center' inverted color='grey'>      
           Planet Milanković
@@ -70,14 +78,6 @@ export default function Home() {
           <Button primary>HRVATSKI</Button>  
         </Link>          
         </Grid.Column>        
-        <Grid.Column>
-        <Header as='h1' textAlign='center' inverted color='grey'>      
-          Планета Миланковић
-          </Header> 
-            <Link to="/srpski">
-            <Button primary>СРПСКИ</Button>  
-            </Link>       
-        </Grid.Column>
         <Grid.Column>
         <Header as='h1' textAlign='center' inverted color='grey'>      
           Planet Milankovitch
