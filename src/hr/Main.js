@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import {Helmet} from "react-helmet";
 import ReactMapGL, { Marker, Popup } from 'react-map-gl';
 
 import * as parkDate from "./data/lokacije.json";
@@ -53,6 +54,10 @@ export default function MainHr() {
 
   return (
     <div>
+    <Helmet>
+        <meta charSet="utf-8" />
+        <title>Planet Milanković</title>        
+    </Helmet>
       <Navigation />
       <ReactMapGL
         {...viewport}

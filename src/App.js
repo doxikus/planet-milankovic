@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Switch } from 'react-router-dom'
-// We will create these two pages in a moment
+import {Helmet} from "react-helmet";
 import MainHr from "./hr/Main";
 import Home from './Home';
 import MainSr from './sr/Main';
@@ -8,6 +8,11 @@ import MainEng from './eng/Main';
 
 export default function App() {
   return (
+    <>
+    <Helmet>
+        <meta charSet="utf-8" />
+        <title>Planet Milanković</title>        
+    </Helmet>
     <Switch>      
       <Route exact path="/" component={Home} />
       <Route exact path="/hrvatski" component={MainHr} />
@@ -17,5 +22,6 @@ export default function App() {
       
       {/* <Route path="/:id" component={UserPage} /> */}
     </Switch>
+    </>
   )
 }
