@@ -11,7 +11,7 @@ const Point4 = () => {
         Fotografije
         </Header>      
       </Divider>
-      <Image src={image1} alt="KORALJNE TERASE NA BARBADOSU" fluid />
+      <Image src={image1} alt="KORALJNE TERASE NA BAHAMIMA" fluid />
     </React.Fragment>
     )
   }

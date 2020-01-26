@@ -5,7 +5,7 @@ const Point3 = () => {
     return (
       <React.Fragment>
 <p>
-Fossilised coral reefs on Barbados mark peaks in sea level, which indicate the warmest spells between ice ages, are 82 000, 102 000 and 126 000 years old. These dates match the times when the northern hemisphere was warmer because it was tilting more towards the Sun than usual. The tilt changes because of a small periodic wobble of the Earth's axis known as the Milankovitch cycle. "In all three instances we dated, the record was consistent with the astronomical theory," says Lawrence Edwards, University of Minnesota in Minneapolis.
+Barbados is the easternmost island in the Lesser Antilles, which is, unlike its sister islands not of volcanic origin. The work on coral samples from Barbados clearly documents the occurance of 82,000- and 122,000-year high stands of the sea, and also provides compelling evidence of the ocurrence of a third high stand 103,000 years ago. These data show a parallelism over the last 150,000 years between changes in Earth’s climate and changes in the summer insolation predicted from cycles in the tilt and precession of Earth’s axis. 
 
 </p>
       {/* <img src={image1} alt="KORALJNE TERASE NA BARBADOSU" /> */}

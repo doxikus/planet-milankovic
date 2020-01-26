@@ -4,9 +4,7 @@ import image1 from "../../../assets/locations/barbados.jpg"
 const Point3 = () => {
     return (
       <React.Fragment>
-    <p>Roble Mattews i Kenneth Mesolella su 1965. godine ustvrdili da su terasaste obale otoka nastale prirastom koralja i da svaka terasa predstavlja sprud nastao na nekadašnjem nivou mora. </p>
-      <p>Starosti tih sprudova određene su na 82,102 i 126 tisuća godina. Ovi datumi odgovaraju vremenima kada je sjeverna hemisfera bila toplija jer je bila nagnuta ka Suncu više nego obično. To ukazuje da na niskim geografskim širinama ciklus precesije zaista ima značajan utjecaj. </p>
-      <p>U sva tri proučavana slučaja nađeno je da su geološki zapisi konzistentni s Milankovićevim ciklusima, kaže Lawrence Edwards, s Univerziteta Minnesota u Minneapolisu. Ova otkrića su objavljena 1968. godine, a potvrđena 1997., kao i daljnjim istraživanjima na Novoj Gvineji i Havajima.</p>
+    <p>Barbados je najistočniji otok Malih Antila koje, za razliku od ostalih otoka u tom arhipelagu, nije vulkanskog podrijetla. Rad na uzorcima koralja sa Barbadosa jasno dokumentira visok nivo mora prije 82 i 122 tisuće godina, a takođe pruža i ubjedljiv dokaz o trećem visokom vodostaju prije 103 tisuće godina. Ovi podatci pokazuju da u posljednjih 150 tisuća godina postoji paralela između promjena u klimi Zemlje i promjena ljetnjeg osunčavanja izazvanih ciklusima promejne nagiba i precesije Zemljine osi. </p>
       {/* <img src={image1} alt="KORALJNE TERASE NA BARBADOSU" /> */}
       <Divider horizontal>      
       <Header as="h4">

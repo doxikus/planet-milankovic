@@ -9,7 +9,7 @@
         "type": "Feature",
         "properties": {
           "id": 3,
-          "NAME": "CORAL REEFS ON BARBADOS",
+          "NAME": "BARBADOS CORAL SHELF",
           "color": "blue"
         },
         "geometry": {
@@ -124,6 +124,54 @@
         "geometry": {
           "type": "Point",
           "coordinates": [-140.671700, -4.870345]           
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 13,
+          "NAME": "SOUTH AUSTRALIAN RIDGE",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [138.553389, -31.412185]            
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 14,
+          "NAME": "ATOL EINWETOK, PACIFIC",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [162.188748, 11.472356]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 15,
+          "NAME": "VILLAGE ORERA, SPAIN",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.476047, 41.299511]                      
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 16,
+          "NAME": "SOUTH INDIAN OCEAN",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [81.816451, -33.236493]            
         }
       }
       
