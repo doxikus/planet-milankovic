@@ -5,7 +5,18 @@
       "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
     },
     "features": [
-     
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 1,          
+          "NAME": "Стари Сланкамен, Дунав, Србија",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.281414, 45.135948]          
+        }
+      },
       {
         "type": "Feature",
         "properties": {
@@ -184,7 +195,7 @@
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [81.816451, -33.236493]            
+          "coordinates": [60.313312, -32.193936]                       
         }
       },
       {

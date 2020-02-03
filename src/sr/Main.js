@@ -8,7 +8,7 @@ import { Button, Modal } from 'semantic-ui-react'
 
 import Navigation from "./components/NavBar.js";
 
-// import Point1 from "./Points/Point1/Point1";
+import Point1 from "./Points/Point1/Point1";
 import Point2 from "./Points/Point2/Point2";
 import Point3 from "./Points/Point3/Point3";
 import Point4 from "./Points/Point4/Point4";
@@ -108,9 +108,9 @@ export default function MainSr() {
           </Modal.Header>
     <Modal.Content>      
       <Modal.Description>        
-        {/* {selectedPark.properties.id === 1 &&
+        {selectedPark.properties.id === 1 &&
         <Point1 />
-        } */}
+        }
         {selectedPark.properties.id === 2 &&
         <Point2 />
         }
