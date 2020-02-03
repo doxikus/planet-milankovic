@@ -24,6 +24,8 @@ import Point13 from "./Points/Point13/Point13";
 import Point14 from "./Points/Point14/Point14";
 import Point15 from "./Points/Point15/Point15";
 import Point16 from "./Points/Point16/Point16";
+import Point17 from "./Points/Point17/Point17";
+import Point18 from "./Points/Point18/Point18";
 
 
 
@@ -153,7 +155,13 @@ export default function MainHr() {
         } 
         {selectedPark.properties.id === 16 &&
         <Point16 />
-        }                                                                                    
+        }
+        {selectedPark.properties.id === 17 &&
+        <Point17 />
+        }  
+        {selectedPark.properties.id === 18 &&
+        <Point18 />
+        }                                                                                                      
       </Modal.Description>   
     </Modal.Content>
     <Modal.Actions>

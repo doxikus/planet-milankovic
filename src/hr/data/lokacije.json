@@ -70,7 +70,7 @@
         "properties": {
           "id": 6,
           "NAME": "ISTRAŽIVAČKA STANICA VOSTOK NA ANTARKTICI",
-          "color": "red"
+          "color": "blue"
         },
         "geometry": {
           "type": "Point",
@@ -190,12 +190,36 @@
         "type": "Feature",
         "properties": {
           "id": 16,
-          "NAME": "JUŽNI INDIJSKI OCEAN",
-          "color": "blue"
+          "NAME": "Projekat CLIMAP – južni Indijski ocean",
+          "color": "red"
         },
         "geometry": {
           "type": "Point",
           "coordinates": [81.816451, -33.236493]            
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 17,
+          "NAME": "Njuarški basen, SAD",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-76.318723, 39.275035]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 18,
+          "NAME": "Papua Nova Gvineja",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [144.034234, -5.634959]                       
         }
       }
       

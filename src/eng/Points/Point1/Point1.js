@@ -8,22 +8,9 @@ import image3 from "../../../assets/locations/slankamen3.png"
 const Point1 = () => {
     return (
         <>            
-            <p>Hiljadama godina navejavani lesni profili u Starom Slankamenu izuzetno su vredno prirodno
-dobro koje čuva tajne ledenog doba i klimatskih promena tokom njega. To je geološki
-lokalitet jedinstven u Evropi jer predstavlja najkompletniji arhiv paleoklimatskih promena
-tokom poslednjih 800.000 godina na evropskom kopnu. Jedan je od tri najvrednija lokaliteta
-ovog tipa u svetu i može se porediti sa lesnim naslagama u Kini i Centralnoj Aziji. Lesni profili
-u Starom Slankamenu su već oko 300 godina predmet istraživanja domaćih i stranih naučnika
-iz različitih delova sveta i kako su ona ukazala na njihov izuzetan značaj, 1975. godine
-stavljeni su pod zaštitu i proglašeni spomenikom prirode. U I kategoriju prirodnih dobara
-Srbije svrstani su 2007. godine.</p>
-<p>
-Lesni profil u Starom Slankamenu predstavlja, najkompletnije geonasleđe lesnih sedimenta u
-Evropi stari oko 800 000 godina. U njima se čuva tajna ledenog doba, a punih 280 godina su
-predmet istraživanja domaćih i stranih naučnika.Naučnici tvrde da upoređivanjem čestica
-lesnih profila na različitim mestima zemljine kugle mogu, na primer, da rekonstruišu kakvi su
-bili klimatski uslovi u tom delu sveta pre petnaest hiljada godina!
-</p>
+            <p>
+              One of the best recorders of Quaternary climate is a thick loess deposit, and some of the best loess deposits in Europe are in Voyvodina, north Serbia. The Stari Slankamen loess section is located on the northeastern part of the Srem Loess Plateau on the west bank of the Danube River. The ca. 40-m thick cliff is comprised of loess intercalated with 7 major paleo-pedocomplexes and can be considered to be one of the most significant, nearly continuous, Quaternary sections in the Carpathian (Panonnian) Basin area. This long loess section at Stari Slankamen, on the Danube, provides a rare opportunity to investigate detailed and long-term climatic change over the Middle Pleistocene in a region influenced by air masses from high and middle latitudes as well as the North Atlantic and Mediterranean. The changing relative importance of these air masses through time provides insight into local and regional synoptic systems and their evolution through the last ca. 850 ka. The section can thus be considered as one of the key loess - paleoclimate records in Europe. The Stari Slankamen loess section has yielded excellent results which can be matched to the climate change determinations made by Milutin Milankovitch on the basis of changes in the Earth’s orbital geometry. 
+            </p>
 <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
@@ -34,16 +21,7 @@ bili klimatski uslovi u tom delu sveta pre petnaest hiljada godina!
         <img src={image2} alt="LESNI PROFIL U STAROM SLANKAMENU" />
         <img src={image3} alt="LESNI PROFIL U STAROM SLANKAMENU" />
         </div>
-<p>
-Na lesnom profilu kod Starog Slenkamena izdvaja se jedanaest pedokompleksa:
-pedokompleksi F11 do F9, rubificiranog smeđeg zemljišta koja odgovaraju toploj i vlažnoj
-mediteranskoj klimi starijeg pleistocena. Smeđa paleozemljišta pedokompleksa F8 i F7
-odgovaraju kontinentalnoj umerenopromenljivoj klimi srednjeg pleistocena, koji se završava
-rubificiranim smeđim paleozemljištem tj., pedokompleksom F6, što ukazuje na povratak
-tople mediteranske klime. Pedokompleks F5, pripisuje se početku Virma ili Ris-Virm
-interglacijalu. Ovo se objašnjava pojavom toplije i vlažnije klime tokom mlađeg pleistocena u
-južnim delovima Evrope, koji je pružio povoljne uslove za obrazovanje černozema.
-</p>
+
 <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />

@@ -8,21 +8,8 @@ import image3 from "../../../assets/locations/slankamen3.png"
 const Point1 = () => {
     return (
         <>            
-            <p>Hiljadama godina navejavani lesni profili u Starom Slankamenu izuzetno su vredno prirodno
-dobro koje čuva tajne ledenog doba i klimatskih promena tokom njega. To je geološki
-lokalitet jedinstven u Evropi jer predstavlja najkompletniji arhiv paleoklimatskih promena
-tokom poslednjih 800.000 godina na evropskom kopnu. Jedan je od tri najvrednija lokaliteta
-ovog tipa u svetu i može se porediti sa lesnim naslagama u Kini i Centralnoj Aziji. Lesni profili
-u Starom Slankamenu su već oko 300 godina predmet istraživanja domaćih i stranih naučnika
-iz različitih delova sveta i kako su ona ukazala na njihov izuzetan značaj, 1975. godine
-stavljeni su pod zaštitu i proglašeni spomenikom prirode. U I kategoriju prirodnih dobara
-Srbije svrstani su 2007. godine.</p>
 <p>
-Lesni profil u Starom Slankamenu predstavlja, najkompletnije geonasleđe lesnih sedimenta u
-Evropi stari oko 800 000 godina. U njima se čuva tajna ledenog doba, a punih 280 godina su
-predmet istraživanja domaćih i stranih naučnika.Naučnici tvrde da upoređivanjem čestica
-lesnih profila na različitim mestima zemljine kugle mogu, na primer, da rekonstruišu kakvi su
-bili klimatski uslovi u tom delu sveta pre petnaest hiljada godina!
+Jedan od najboljih zapisa o klimi kvartara može se naći u debelim nanosima lesa, a neke od najboljih lesnih naslaga u Europi nalaze se u Vojvodini, sjeverna Srbija. Lesni profil Stari Slankamen leži na sjeverozapadu srijemskog lesnog platoa na desnoj strani Dunava. Tamošnja 40 m visoka litica sačinjena je od lesa sa sedam velikih međuslojeva paleo-pedokompleksa i može se smatrati jednim od najznačajnijih, gotovo neprekinutih kvartarskih profila u oblasti Karpatskog (Panonskog) basena. Taj visoki lesni profil kod Starog Slankamena pruža rijetku mogućnost detaljnog istraživanja dugotrajnih klimatskih promjena srednjeg pleistocena u regiji na koju su utjecale zračne mase sa visokih i srednjih geografskih širina, kao i sa sjevernog Atlantika i Sredozemlja. Promjena relativnog značaja tih zračnih masa tijekom vremena pruža nam uvid u lokalne i regionalne sinoptičke sustave i njihovu evoluciju tijekom posljednjih 850 000 godina. Ovaj profil se zato može smatrati jednim od ključnih lesnih paleoklimatskh zapisa u Europi. Lesni profil Stari Slankamen dao je odlične rezultate kojim se mogu pratiti klimatske promjene koje je Milutin Milanković predvidio na osnovu promjena geometrije Zemljine orbite.
 </p>
 <Divider horizontal>
         <Header as="h4">
@@ -34,16 +21,7 @@ bili klimatski uslovi u tom delu sveta pre petnaest hiljada godina!
         <img src={image2} alt="LESNI PROFIL U STAROM SLANKAMENU" />
         <img src={image3} alt="LESNI PROFIL U STAROM SLANKAMENU" />
         </div>
-<p>
-Na lesnom profilu kod Starog Slenkamena izdvaja se jedanaest pedokompleksa:
-pedokompleksi F11 do F9, rubificiranog smeđeg zemljišta koja odgovaraju toploj i vlažnoj
-mediteranskoj klimi starijeg pleistocena. Smeđa paleozemljišta pedokompleksa F8 i F7
-odgovaraju kontinentalnoj umerenopromenljivoj klimi srednjeg pleistocena, koji se završava
-rubificiranim smeđim paleozemljištem tj., pedokompleksom F6, što ukazuje na povratak
-tople mediteranske klime. Pedokompleks F5, pripisuje se početku Virma ili Ris-Virm
-interglacijalu. Ovo se objašnjava pojavom toplije i vlažnije klime tokom mlađeg pleistocena u
-južnim delovima Evrope, koji je pružio povoljne uslove za obrazovanje černozema.
-</p>
+
 <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />

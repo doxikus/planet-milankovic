@@ -8,6 +8,18 @@
       {
         "type": "Feature",
         "properties": {
+          "id": 1,          
+          "NAME": "Old Slankamen, Danube, Serbia",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.281414, 45.135948]          
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "id": 3,
           "NAME": "BARBADOS CORAL SHELF",
           "color": "blue"
@@ -46,7 +58,7 @@
         "properties": {
           "id": 6,
           "NAME": "VOSTOK RESEARCH STATION IN ANTARTICA",
-          "color": "red"
+          "color": "blue"
         },
         "geometry": {
           "type": "Point",
@@ -166,12 +178,36 @@
         "type": "Feature",
         "properties": {
           "id": 16,
-          "NAME": "SOUTH INDIAN OCEAN",
-          "color": "blue"
+          "NAME": "Project CLIMAP, Southern Indian Ocean",
+          "color": "red"
         },
         "geometry": {
           "type": "Point",
           "coordinates": [81.816451, -33.236493]            
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 17,
+          "NAME": "Newark Basin, USA",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-76.318723, 39.275035]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 18,
+          "NAME": "Papua New Guinea",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [144.034234, -5.634959]                       
         }
       }
       
