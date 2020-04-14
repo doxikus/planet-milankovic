@@ -221,6 +221,114 @@
           "type": "Point",
           "coordinates": [144.034234, -5.634959]                       
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 19,
+          "NAME": "PEĆINA BOTUVERA, BRAZIL",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-49.075000, -27.198889]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 20,
+          "NAME": "Istočna Afrika",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [55.450000, -4.616667]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 21,
+          "NAME": "BAOJI LESNI PROFIL, KINA",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.740000, 37.452000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 22,
+          "NAME": "BASEN AINSA, ŠPANJOLSKI PIRINEJI",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [0.657778, 42.632222]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 23,
+          "NAME": "AUSTRIJSKЕ ALPЕ",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.908111, 46.382389]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 24,
+          "NAME": "TALIJANSKI DOLOMITI",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [11.850000, 46.433333]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 25,
+          "NAME": "Sahara",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [13.000000, 23.000000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 26,
+          "NAME": "DELTA NIGERA, MALI",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-4.100000, 15.200000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 27,
+          "NAME": "PEĆINA SANBAO, KINA",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.433, 31.667]                       
+        }
       }
       
     ]

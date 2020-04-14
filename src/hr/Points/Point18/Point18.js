@@ -10,7 +10,7 @@ const Point18 = () => {
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Photos
+        Fotografija
         </Header>      
       </Divider>
       <Image src={image1} alt="Papua New Guinea" fluid />
