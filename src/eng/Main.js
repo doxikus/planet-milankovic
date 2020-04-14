@@ -26,7 +26,15 @@ import Point15 from "./Points/Point15/Point15";
 import Point16 from "./Points/Point16/Point16";
 import Point17 from "./Points/Point17/Point17";
 import Point18 from "./Points/Point18/Point18";
-
+import Point19 from "./Points/Point19/Point19";
+import Point20 from "./Points/Point20/Point20";
+import Point21 from "./Points/Point21/Point21";
+import Point22 from "./Points/Point22/Point22";
+import Point23 from "./Points/Point23/Point23";
+import Point24 from "./Points/Point24/Point24";
+import Point25 from "./Points/Point25/Point25";
+import Point26 from "./Points/Point26/Point26";
+import Point27 from "./Points/Point27/Point27";
 
 
 
@@ -163,7 +171,34 @@ export default function MainEng() {
         }
         {selectedPark.properties.id === 18 &&
         <Point18 />
-        }                                                                                                                              
+        }
+        {selectedPark.properties.id === 19 &&
+        <Point19 />
+        } 
+        {selectedPark.properties.id === 20 &&
+        <Point20 />
+        } 
+        {selectedPark.properties.id === 21 &&
+        <Point21 />
+        } 
+        {selectedPark.properties.id === 22 &&
+        <Point22 />
+        } 
+        {selectedPark.properties.id === 23 &&
+        <Point23 />
+        } 
+        {selectedPark.properties.id === 24 &&
+        <Point24 />
+        } 
+        {selectedPark.properties.id === 25 &&
+        <Point25 />
+        } 
+        {selectedPark.properties.id === 26 &&
+        <Point26 />
+        } 
+        {selectedPark.properties.id === 27 &&
+        <Point27 />
+        }                                                                                                                                       
       </Modal.Description>   
     </Modal.Content>
     <Modal.Actions>

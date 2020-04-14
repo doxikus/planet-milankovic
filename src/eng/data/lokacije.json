@@ -209,6 +209,114 @@
           "type": "Point",
           "coordinates": [144.034234, -5.634959]                       
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 19,
+          "NAME": "BOTUVERA CAVE, BRAZIL",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-49.075000, -27.198889]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 20,
+          "NAME": "EAST AFRICA",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [55.450000, -4.616667]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 21,
+          "NAME": "BAOJI LOESS-SOIL, CHINA",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.740000, 37.452000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 22,
+          "NAME": "AINSA BASIN, SPANISH PYRENEES",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [0.657778, 42.632222]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 23,
+          "NAME": "AUSTRIAN ALPS",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.908111, 46.382389]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 24,
+          "NAME": "ITALIAN DOLOMITES",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [11.850000, 46.433333]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 25,
+          "NAME": "Sahara",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [13.000000, 23.000000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 26,
+          "NAME": "INLAND DELTA OF THE NIGER, MALI",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-4.100000, 15.200000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 27,
+          "NAME": "SANBAO CAVE, CHINA",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.433, 31.667]                       
+        }
       }
       
     ]

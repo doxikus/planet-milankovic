@@ -221,6 +221,114 @@
           "type": "Point",
           "coordinates": [144.034234, -5.634959]                       
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 19,
+          "NAME": "ПЕЋИНА БОТУВЕРА, БРАЗИЛ",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-49.075000, -27.198889]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 20,
+          "NAME": "ИСТОЧНА АФРИКА",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [55.450000, -4.616667]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 21,
+          "NAME": "БАОЂИ ЛЕСНИ ПРОФИЛ, КИНА",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.740000, 37.452000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 22,
+          "NAME": "БАСЕН АИНСА, ШПАНСКИ ПИРИНЕЈИ",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [0.657778, 42.632222]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 23,
+          "NAME": "АУСТРИЈСКИ АЛПИ",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.908111, 46.382389]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 24,
+          "NAME": "ИТАЛИЈАНСКИ ДОЛОМИТИ",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [11.850000, 46.433333]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 25,
+          "NAME": "САХАРА",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [13.000000, 23.000000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 26,
+          "NAME": "ДЕЛТА НИГЕРА, МАЛИ",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-4.100000, 15.200000]                       
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 27,
+          "NAME": "ПЕЋИНА САНБАО, КИНА",
+          "color": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [110.433, 31.667]                       
+        }
       }
       
     ]
