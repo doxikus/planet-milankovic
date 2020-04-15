@@ -5,12 +5,12 @@ const Point27 = () => {
     return (
     <React.Fragment>
       <p>
-      Podatci dobijeni analizom kisikovih izotopa u uzorcima iz kineskih pеćina opisuju promјene koje su se odigravale i u azijskom monsunu i u globalnoj klimi. Oni koje smo dobili iz Sanbao pećine omogućili su nam da zapis o klimi Kine produžimo na poslјednjih 640 000 godina. Dužina tog zapisa i precizno određivanje starosti uzoraka omogućuju nam da testiramo ideju da su promјene u osunčavanju izazvane Zemljinom precesijom dovele do okončanja svakog od poslјednjih sedam ledenih doba, kao i tisućama godina dugih intervala smanjenih monsunskih kiša koji su povezani sa svakim od završetaka ledenih doba. Okončanja ledenih doba razdvojena su sa po četiri ili pet precesijskih ciklusa, što podržava ideju o tome da je ciklus glacijacije od 100 000 godina zapravo srednja vrijednost diskretnih brojeva precesijskih ciklusa. Ova promatranja ukazuju na to da  Milankovićeva dinamika osunčavanja, djelimično, diktira ritam pojavljivanja tiusćugodišnjih zbivanja, uključujući ona koja su povezana sa okončanjima ledenih doba, a isto tako i sa „nezavršenim okončanjima“.
+      Подаци добијени анализом кисеоникових изотопа у узорцима из кинеских поћина описују промене које су се одигравале и у азијском монсуну и у глобалној клими. Они које смо добили из Санбао пећине омогућили су нам да запис о клими Кине продужимо на последњих 640 000 година. Дужина тог записа и прецизно одређивање старости узорака омогућују нам да тестирамо идеју да су промене у осунчавању изазване Земљином прецесијом довеле до окончања сваког од последњих седам ледених доба, као и хиљадама година дугих интервала смањених монсунских киша који су повезани са сваким од завршетака ледених доба. Окончања ледених доба раздвојена су са по четири или пет прецесионих циклуса, што подржава идеју о томе да је циклус глацијације од 100 000 година заправо средња вредност дискретних бројева прецесионих циклуса. Ова посматрања указују на то да  Миланковићева динамика осунчавања, делимично, диктира ритам појављивања хиљадугодишњих збивања, укључујући она која су повезана са окончањима ледених доба, а исто тако и са „незавршеним окончањима“.  
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografija
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="PEĆINA SANBAO, KINA" fluid />

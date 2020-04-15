@@ -12,7 +12,7 @@ const Point14 = () => {
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Photos
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="АТОЛ ЕЈНВЕТОК, ТИХИ ОКЕАН" fluid />

@@ -5,12 +5,12 @@ const Point24 = () => {
     return (
     <React.Fragment>
       <p>
-      Masiv Latemar u talijanskim Dolomitima bio je formacija nalik atolu sa jezgrom sačinjenоm od horizontalne karbonatne platforme iz srednjeg trijasa (-247 – -237 milijuna godina). Oscilacijama morskog nivoa nastalo je preko 500 tankih depozicijskih ciklusa. Obrazac taloženja i rezultati spektralne analize oscilacija morskog nivoa tumače se u okviru Milankovićeve teorije kao posljedica precesijskog ciklusa moduliranog „kratkim“ ciklusom ekscentričnosti (100.000 godina), što ukazuje da latemarski depozit obuhvata oko 10 milijuna godina.  
+      Масив Латемар у италијанским Доломитима био је формација налик атолу са језгром сачињеним од хоризонталне карбонатне платформе из средњег тријаса (-247 – -237 милиона година). Осцилацијама морског нивоа настало је преко 500 танких депозиционих циклуса. Образац таложења и резутати спектралне анализе осцилација морског нивоа тумаче се у оквиру Миланковићеве теорије као последица прецесионог циклуса модулисаног „кратким“ циклусом ексцентричности (100.000 година), што указује да латемарски депозит обухвата око 10 милиона година.  
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografija
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="TALIJANSKI DOLOMITI" fluid />

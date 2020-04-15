@@ -5,12 +5,12 @@ const Point21 = () => {
     return (
     <React.Fragment>
       <p>
-      Analizirana je veličina zrnaca lesa na Baoji profilu u intervalima od 10 cm. Promjena veličine lesnih čestica tumači se kao rezultat promjena u intenzitetu zimskih monsunskih vjetrova iz Sibira izazvanih cikličnim izmjenama ledenih i međuledenih perioda. Podatci o veličini čestica su poslužili kao lokalni pokazatelj strujanja zimskih monsuna, i upoređeni su sa Milankovićevim orbitalnim varijacijama koje su Berger i Loutre izračunali 1991. godine, uz kontrolu putem podataka o obrtanju magnetnih polova.  Utvrđeno je sljedeće: (1) komponente precesije i nutacije izdvojene iz podataka o veličini čestica na orbitalnoj vremenskoj skali veoma dobro se slažu sa teorijskim orbitalnim podatcima (2) postoji bliska koherentnost između vremenske skale određene veličinom Baoji čestica i orbitalnih varijacija tokom čitavog perioda od 0-2,5 milijuna godina.
+      The grain size of the Baoji loess-soil sequence was analyzed at 10 cm intervals. A change in loess-soil grains is interpreted as the result of the glacial-interglacial cyclic variations in the intensity of the winter monsoon winds out of Siberia. The grain size record is thus employed as a proxy indicator of the winter monsoon circulation and tuned to the Milankovitch orbital records calculated by Berger and Loutre (1991) under the control of major magnetic reversals. The resulting grain size time scale is tightly constrained, as suggested by the following facts: (1) the filtered obliquity and precession components from the grain size data on the orbital time scale closely match the theoretical orbital records; (3) there is close coherence between the Baoji grain size time series and the orbital variations at the orbital frequency bands over the entire 0–2.5 Ma period. 
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografije
+        Photos
         </Header>      
       </Divider>
       <Image src={image1} alt="BAOJI LESNI PROFIL, KINA" fluid />

@@ -14,7 +14,7 @@ const Point1 = () => {
 <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografije
+        Фотографије
         </Header>      
       </Divider>
 <div className="gallery-inline">
@@ -24,7 +24,7 @@ const Point1 = () => {
 <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografije
+        Фотографије
         </Header>      
       </Divider>
         <img src={image1} alt="LESNI PROFIL U STAROM SLANKAMENU" />

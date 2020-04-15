@@ -10,7 +10,7 @@ const Point15 = () => {
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Photos
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="СЕЛО ОРЕРА, ШПАНИЈА" fluid />

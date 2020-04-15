@@ -5,12 +5,12 @@ const Point26 = () => {
     return (
     <React.Fragment>
       <p>
-      Jezerski nivoi i paleoekološki nalazi iz Afrike, Arabije i južne Azije za posljednjih 9000 godina ukazuju na to da se sjeverni monsuni pojačavaju i polako pomjeraju ka polu. Na južnoj strani Sahare vegetacijski pojasevi su se pomjerili na sjever za 4-6o geografske širine. Obrnuto, monsun nad južnom Afrikom je nekad bio slabiji nego danas. Proračuni zasnovani na novoj paleogeografskoj mapi ukazali su da se površinski albedo umanjio za 0,10-0,14 u zoni između 16-24o sjeverne širine, a da su se ukupne godišnje padavine uvećale za 150-320 mm sjeverno od delte Nigera (20-24o 15' N). Ogledi s modelima opće atmosferske cirkulacije sugeriraju da se ovaj asimetrični obrazac anomalija u jačini tropskih monsuna može objasniti promjenom orbitalne geometrije Zemlje za 9000 godina. Rezultati numeričkog eksperimenta u kome je albedo iznad Afrike i Arabijskog poluotoka (15-30o N) snižen za 0,04-0,06 kako bi se simulirala promjena površinskog albeda usljed širenja vegetacije u posljednjih 9000 godina ukazuju da promjene površinskog albeda izazivaju značajan pozitivni povratni efekat koji pojačava neposredne klimatske posljedice Milankovićevih ciklusa u tropima. 
+      Језерски нивои и палеоеколошки налази из Африке, Арабије и јужне Азије за последњих 9000 година указују на то да се северни монсуни појачавају и полако померају ка полу. На јужној страни Сахаре вегетациони појасеви су се померили на север за 4-6о географске ширине. Обрнуто, монсун над јужном Африком је некад био слабији него данас. Прорачуни засновани на новој палеогеографској мапи указали су да се површински албедо умањио за 0,10-0,14 у зони између 16-24о северне ширине, а да су се укупне годишње падавине увећале за 150-320 mm северно од делте Нигера (20-24о15' N). Огледи с моделима опште атмосферске циркулације сугеришу да се овај асиметрични образац аномалија у јачини тропских монсуна може објаснити променом орбиталне геометрије Земље за 9000 година. Резултати нумеричког експеримента у коме је албедо изнад Африке и Арабијског полуострва (15-30о N) снижен за 0,04-0,06 како би се симулирала промена површинског албеда услед ширења вегетације у последњих 9000 година указују да промене површинског албеда изазивају значајан позитивни повратни ефекат који појачава непосредне климатске последице Миланковићевих циклуса у тропима. 
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografija
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="DELTA NIGERA, MALI" fluid />

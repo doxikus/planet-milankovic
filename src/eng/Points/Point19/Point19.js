@@ -5,10 +5,8 @@ const Point19 = () => {
     return (
     <React.Fragment>
       <p>
-      John Kutzbach je objasnio na koji način promjene sunčevog zračenja izazvane promjenama Zemljine orbite uzrokuju promjenljivost monsuna duge desetine tisuća godina. Kad ljetnje osunčavanje raste, uglavnom zbog Milankovićevog precesijskog ciklusa, raste i temperaturni gradijent na dodiru kopna i mora, što opet pokreće monsunsko strujanje u suptropskim oblastima. Tako, prema ovoj tzv. „orbitalno monsunskoj hipotezi“, jače ljetnje osunčavanje biva praćeno vlažnijim monsunima.
-Proučavanjem stalagmita iz pećine Botuvera u Brazilu, utvrđena je vanredna povezanost osunčavanja i monsunske promjenljivosti. Još jedan nalaz iz iste pećine pokazao je da su zapisi o klimatskoj prošlosti ponovljivi i pouzdani. Vremenski nizovi očuvani u ta dva stalagmita protezali su se na posljednjih 116 000 godina, a krivulja promjene kisikovih izotopa u njima pratila je sinusoidnu krivulju ljetnjeg osunčavanja južne Zemljine polulopte.
-Ali najduži i možda najupečatljiviji dokazi o povezanosti monsuna i osunčavanja dolaze iz Kine. Zapis o monsunskoj aktivnosti načinjen je proučavanjem brojnih stalagmita (Cheng et al., 2016), i prati krivulju osunčavanja 640 000 godina unazad.
-
+      John Kutzbach described how orbital changes in solar radiation drive monsoon variability over tens of thousands of years. As summer insolation increases, largely due to the precessional (wobble) Milankovitch cycle, so do the land-sea temperature gradients that, in turn, drive monsoon circulation in the subtropics. Thus, according to this so-called “orbital monsoon hypothesis,” wetter monsoons accompany higher summer insolation. A remarkable relationship between insolation and monsoon variability from stalagmite found in Botuvera Cave, Brazil, was reported. Soon after, another record from the same cave demonstrated the repeatability and reliability of these records from stalagmites. These two stalagmite time series span the last 116,000 years, and that are characterized by oxygen isotopic ratios that track the sinusoid of austral summer insolation.
+But the longest and perhaps most impressive insolation-monsoon relationship comes from China. This record of monsoonal activity involved the study of numerous stalagmites (Cheng et al., 2016) and tracks the insolation record back to 640,000 years.
       </p>
       <Divider horizontal>
         <Header as="h4">

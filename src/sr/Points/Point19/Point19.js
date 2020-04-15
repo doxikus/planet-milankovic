@@ -5,15 +5,14 @@ const Point19 = () => {
     return (
     <React.Fragment>
       <p>
-      John Kutzbach je objasnio na koji način promjene sunčevog zračenja izazvane promjenama Zemljine orbite uzrokuju promjenljivost monsuna duge desetine tisuća godina. Kad ljetnje osunčavanje raste, uglavnom zbog Milankovićevog precesijskog ciklusa, raste i temperaturni gradijent na dodiru kopna i mora, što opet pokreće monsunsko strujanje u suptropskim oblastima. Tako, prema ovoj tzv. „orbitalno monsunskoj hipotezi“, jače ljetnje osunčavanje biva praćeno vlažnijim monsunima.
-Proučavanjem stalagmita iz pećine Botuvera u Brazilu, utvrđena je vanredna povezanost osunčavanja i monsunske promjenljivosti. Još jedan nalaz iz iste pećine pokazao je da su zapisi o klimatskoj prošlosti ponovljivi i pouzdani. Vremenski nizovi očuvani u ta dva stalagmita protezali su se na posljednjih 116 000 godina, a krivulja promjene kisikovih izotopa u njima pratila je sinusoidnu krivulju ljetnjeg osunčavanja južne Zemljine polulopte.
-Ali najduži i možda najupečatljiviji dokazi o povezanosti monsuna i osunčavanja dolaze iz Kine. Zapis o monsunskoj aktivnosti načinjen je proučavanjem brojnih stalagmita (Cheng et al., 2016), i prati krivulju osunčavanja 640 000 godina unazad.
-
+      Џон Кузбак је објаснио на који начин промене сунчевог зрачења изазване променама Земљине орбите узрокују променљивост монсуна дуге десетине хиљада година. Кад летње осунчавање расте, углавном због Миланковићевог прецесионог циклуса, расте и температурни градијент на додиру копна и мора, што опет покреће монсунско струјање у суптропским областима. Тако, према овој тзв. „орбитално монсунској хипотези“, јаче летње осунчавање бива праћено влажнијим монсунима.
+Проучавањем сталагмита из пећине Ботувера у Бразилу, утврђена је изванредна повезаност осунчавања и монсунске променљивости. Још један налаз из исте пећине показао је да су записи о климатској прошлости поновљиви и поуздани. Временски низови очувани у та два сталагмита протезали су се на последњих 116 000 година, а крива промене кисеоникових изотопа у њима пратила је синусоидну криву летњег осунчавања јужне Земљине полулопте.
+Али најдужи и можда најупечатљивији докази о повезаности монсуна и осунчавања долазе из Кине. Запис о монсунској активности начињен је проучавањем бројних сталагмита (Cheng et al., 2016), и прати криву осунчавања 640 000 година уназад.
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografija
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="PEĆINA BOTUVERA, BRAZIL" fluid />

@@ -5,13 +5,12 @@ const Point20 = () => {
     return (
     <React.Fragment>
       <p>
-      U Milankovićevo vrijeme se sumnjalo u utjecaj njegovih ciklusa na periodičnost klimatskih promjena. Međutim, od 1970. različita proučavanja su podržala model i predviđanja srpskog znanstvenika, i pokazala da su i geološki podatci otkriveni u  drevnim slojevima i fosilni ostatci određenih organizama kompatibilni s promjenama klime koji mogu objasniti periodičnost zaleđivanja svakih 100.000 godina. Jedna nedavna studija je potvrdila zapis o klimatskim ciklusima u okamenjenim sedimentima sve do prije 215 milijuna godina, tj. do osvita ere dinosaura. I ljudi bi, na neki način, mogli da budu Milankovićeva djeca. Nedavna proučavanja su dovela do pretpostavke da su klimatske promjene mogle izazvati smjenu sušnih perioda i poplava u istočnoj Africi, što je dovelo, prije 1,9 milijuna godina, do pojave Homo erectusa, prvog humanoida sa velikim mozgom. Prema drugim istraživanjima, ti ciklusi su također pokrenuli i migracije Homo sapiensa van Afrike – putovanje koje nas je povelo kroz prostor i vrijeme do ritma Milankovićevih ciklusa.
-
+      У Миланковићево време се сумњало у утицај његових циклуса на периодичност климатских промена. Међутим, од 1970. различита проучавања су подржала модел и предвиђања српског научника, и показала да су и геолошки подаци откривени у  древним слојевима и фосилни остаци одређених организама компатибилни с променама климе које могу објаснити периодичност залеђивања сваких 100.000 година. Једна недавна студија је потврдила запис о климатским циклусима у окамењеним седиментима све до пре 215 милиона година, тј. до освита ере диносаура. И људи би, на неки начин, могли да буду Миланковићева деца. Недавна проучавања су довела до претпоставке да су климатске промене могле изазвати смену сушних периода и поплава у источној Африци, што је довело, пре 1,9 милиона година, до појаве Homo erectusа, првог хуманоида са великим мозгом. Према другим истраживањима, ти циклуси су такође покренули и миграције Homo sapiensa ван Африке – путовање које нас је повело кроз простор и време до ритма Миланковићевих циклуса.
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografija
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="ISTOČNA AFRIKA" fluid />

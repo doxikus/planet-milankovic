@@ -5,12 +5,12 @@ const Point23 = () => {
     return (
     <React.Fragment>
       <p>
-      Naizmјenični slojevi pјeskovitih glinaca i krečnjaka u austrijskim Alpima, nastali u plitkom moru na granici perm-trijas, pokazuju cikličnost koja se poklapa sa periodičnošću Milankovićevih ciklusa, a interpretiraju se kao pokazatelj da su poslјednje iščeznuće vrsta u permu i negativna amplituda ugljikovog izotopa trajali manje od 30 000 godina
+      Наизменични слојеви песковитих глинаца и кречњака у аустријским Алпима, настали у плитком мору на граници перм-тријас, показују цикличност која се поклапа са периодичношћу Миланковићевих циклуса, а интерпретирају се као показатељ да су последње ишчезнуће врста у перму и негативна амплитуда угљениковог изотопа трајали мање од 30 000 година.
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografija
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="AUSTRIJSKЕ ALPЕ" fluid />

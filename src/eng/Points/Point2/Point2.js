@@ -13,7 +13,7 @@ const Point2 = () => {
         <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografije
+        Photos
         </Header>      
       </Divider>
         <img src={image1} alt="Speleotem s ostrva Arđentarola" />

@@ -5,13 +5,13 @@ const Point25 = () => {
     return (
     <React.Fragment>
       <p>
-      Sjevernoafrički klimatski ciklusi imaju jedinstvenu povijest koja se može pratiti milijunima godina unazad. Ciklični klimatski obrazac Sahare odlikuje se značajnim promjenama jačine sjevernoafričkih monsuna. Kada je sjevernoafrički monsun najjači, godišnje padavine rastu, usljed čega u oblasti Sahare buja vegetacija, što stvara uvjete koji se uobičajeno nazivaju "zelena Sahara". Obrnuto, kada je sjevernoafrički monsun relativno slab, godišnje količine padavina se smanjuju, vegetacije je manje, i to saharsku klimu privodi u fazu poznatu kao "pustinjska Sahara". 
-Varijacije klime u oblasti Sahare mogu se u osnovi pripisati promjenama u osunčavanju usljed sporih promjena Zemljinih orbitalnih parametara. Po Milankovićevoj teoriji, ti parametri su: precesija ravnodnevice, promjena nagiba osi, i ekscentričnost. Precesija ravnodnevice se smatra najznačajnijim orbitalnim parametrom za formiranje ciklusa "zelene Sahare" i "pustinjske Sahare".
+      Северноафрички климатски циклуси имају јединствену историју која се може пратити милионима година уназад. Циклични климатски образац Сахаре одликује се значајним променама јачине северноафричких монсуна. Када је северноафрички монсун најјачи, годишње падавине расту, услед чега у области Сахаре буја вегетација, што ствара услове који се уобичајено називају "зелена Сахара". Обрнуто, када је северноафрички монсун релативно слаб, годишње количине падавина се смањују, вегетације је мање, и то сахарску климу приводи у фазу познату као "пустињска Сахара". 
+Варијације климе у области Сахаре могу се у основи приписати променама у осунчавању услед спорих промена Земљиних орбиталних параметара. По Миланковићевој теорији, ти параметри су: прецесија равнодневице, промена нагиба осе, и ексцентричност. Прецесија равнодневице се сматра најзначајнијим орбиталним параметром за формирање циклуса "зелене Сахаре" и "пустињске Сахаре".
       </p>
       <Divider horizontal>
         <Header as="h4">
         <Icon name='image' />
-        Fotografija
+        Фотографијa
         </Header>      
       </Divider>
       <Image src={image1} alt="SAHARA" fluid />

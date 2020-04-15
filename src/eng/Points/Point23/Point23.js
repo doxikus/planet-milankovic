@@ -5,7 +5,7 @@ const Point23 = () => {
     return (
     <React.Fragment>
       <p>
-      Naizmјenični slojevi pјeskovitih glinaca i krečnjaka u austrijskim Alpima, nastali u plitkom moru na granici perm-trijas, pokazuju cikličnost koja se poklapa sa periodičnošću Milankovićevih ciklusa, a interpretiraju se kao pokazatelj da su poslјednje iščeznuće vrsta u permu i negativna amplituda ugljikovog izotopa trajali manje od 30 000 godina
+      Interbedded marls and limestones of shallow-marine origin spanning the Permian–Triassic boundary interval in the Austrian Alps display cycles with ratios matching Milankovitch periodicities, and have been interpreted to imply that the latest Permian extinction and negative carbon isotope spike spanned less than 30 myr.
       </p>
       <Divider horizontal>
         <Header as="h4">
